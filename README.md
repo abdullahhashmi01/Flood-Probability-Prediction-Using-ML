@@ -32,7 +32,7 @@ Custom CSS styling
 
 # Machine Learning:
 
-Python 3.x
+Python 3.14
 Scikit-learn (Multiple regression models)
 Pandas & NumPy (Data processing)
 Pickle (Model serialization)
